@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.git/
+.venv/
+venv/
+audios/
+*.md
+temp_*.mp3
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+dataset_senias.csv
+Entrenamiento.py
+Generador_DataSet.py
